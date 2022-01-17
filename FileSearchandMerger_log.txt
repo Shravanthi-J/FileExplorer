@@ -1,0 +1,19 @@
+17/01/2022 18:05:17:INFO:Tkinter Window opened
+17/01/2022 18:05:26:INFO:Search Pattern entered :Assign
+17/01/2022 18:05:26:INFO:Searched filed list shown on Listbox
+17/01/2022 18:05:29:INFO:Filtered txt files from search list
+17/01/2022 18:05:34:INFO:Files merged
+17/01/2022 18:05:34:INFO:Opened txt files are closed
+17/01/2022 18:05:34:INFO:Files stored to List
+17/01/2022 18:06:14:ERROR:File name not entered
+17/01/2022 18:06:14:INFO:Searched filed list shown on Listbox
+17/01/2022 18:06:37:INFO:Search Pattern entered :*
+17/01/2022 18:06:39:INFO:Searched filed list shown on Listbox
+17/01/2022 18:06:46:INFO:Search Pattern entered :*
+17/01/2022 18:06:48:INFO:Searched filed list shown on Listbox
+17/01/2022 18:06:48:INFO:Search Pattern entered :*
+17/01/2022 18:06:51:INFO:Searched filed list shown on Listbox
+17/01/2022 18:06:57:INFO:Filtered docx files from search list
+17/01/2022 18:08:09:INFO:Files merged
+17/01/2022 18:08:09:INFO:Opened txt files are closed
+17/01/2022 18:08:09:INFO:Stored selected files to List
